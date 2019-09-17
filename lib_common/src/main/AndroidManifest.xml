@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zssc.lib_common">
+
+    <!--这个是支持lib的配置文件  只需要进行基本的公用的配置就可以了-->
+    <!--<uses-permission android:name="android.permission.INTERNET" />-->
+
+</manifest>
+
+
